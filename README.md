@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Software%20%26%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Production-Grade%20Systems%20%7C%20ML%20%7C%20Backend%20%7C%20Automation&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Software%20%26%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Production-Grade%20Systems%20%7C%20ML%20%7C%20Backend%20%7C%20Automation&descAlignY=60&descSize=16" width="100%" />
 
 <br/>
 
@@ -559,7 +559,7 @@ Consumer note-taking apps are black boxes — no API access, no data portability
 
 ---
 
-## ◈ Coding Profiles
+## ◈ Coding Profiles (Not Updated)
 
 <div align="center">
 
@@ -652,7 +652,7 @@ Consumer note-taking apps are black boxes — no API access, no data portability
 ## ◈ Current Focus
 
 ```yaml
-# Engineering Focus — 2025
+# Engineering Focus — 2026
 engineer:
   name: "Software & AI Engineer"
   status: "Open to Opportunities"
